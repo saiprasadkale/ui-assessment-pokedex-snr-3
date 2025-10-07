@@ -2,7 +2,7 @@
 
 Requirements for this can be found on the home page of the app or [here](./src/README.md)
 
-# Further Improvements to be made in future
+# Planned Future Enhancements
 
 Enhance type safety throughout the codebase for improved reliability and developer experience.
 

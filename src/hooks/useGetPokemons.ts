@@ -27,7 +27,7 @@ export const GET_POKEMONS = gql`
 export const useGetPokemons = () => {
   const { data, ...queryRes } = useQuery(GET_POKEMONS, {
     variables: {
-      first: 5, // Keep hard coded prev 151
+      first: 151, // Keep hard coded prev 151
     },
   });
 
